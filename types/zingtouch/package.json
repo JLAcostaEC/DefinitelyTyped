@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "name": "@types/zingtouch",
+    "version": "1.0.9999",
+    "projects": [
+        "https://github.com/zingchart/zingtouch"
+    ],
+    "devDependencies": {
+        "@types/zingtouch": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "ZingChart",
+            "githubUsername": "zingchart"
+        },
+        {
+            "name": "Jorge Acosta",
+            "githubUsername": "JLAcostaEC"
+        }
+    ]
+}
